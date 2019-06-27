@@ -1,2 +1,2 @@
 # AT
-Assitive Technologies
+Assistive Technologies
